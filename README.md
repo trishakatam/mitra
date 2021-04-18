@@ -8,3 +8,5 @@ this is my first repository
 **this is my readme text file**
 
 [visit website](https://github.com "github")
+
+![LCO mascot](https://learncodeonline.in/mascot.png)
