@@ -11,5 +11,5 @@ this is my first repository
 
 ![LCO mascot](https://github.com/mascot.png)
 
-I hereby declare the project is not a mere imitation or plagiarism of already existing project by a completely unique idea thoroughly thought and searched upon for execution. This is a open source document [visit website](https://GNU General Public License.com, version 2) 
+I hereby declare the project is not a mere imitation or plagiarism of already existing project by a completely unique idea thoroughly thought and searched upon for execution. This is a open source document [visit website](General Public License.com, version 2) 
 
