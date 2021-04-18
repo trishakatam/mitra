@@ -9,4 +9,4 @@ this is my first repository
 
 [visit website](https://github.com "github")
 
-![LCO mascot](https://learncodeonline.in/mascot.png)
+![LCO mascot](https://github.com/mascot.png)
